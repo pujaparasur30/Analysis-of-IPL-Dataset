@@ -6,21 +6,37 @@ IPL is among the most famous cricket league with players coming from worldwide. 
 The dataset has the below attributes about the every match from season 2008 to 2018.
 
 id
+
 city
+
 Year
+
 Season
+
 date
+
 player_of_match
+
 venue
+
 team1
+
 team2
+
 toss_winner
+
 toss_decision
+
 result
+
 winner
+
 win_by_runs
+
 win_by_wickets
+
 umpire1
+
 umpire2
 
 **Skills Learned/Practice from this Project:**
@@ -40,5 +56,6 @@ Advance excel formulas
 Confidence to design and develop any MIS dashboard
 
 
+![IPL Dashboard](https://github.com/user-attachments/assets/c1864459-5e55-4e80-a90b-51865bec8a5f)
 
-![Dashboard of IPL](https://github.com/user-attachments/assets/a42030b9-dd9e-4fca-b5b8-f0eea3f8a859)
+
